@@ -1,0 +1,13 @@
+<?php
+
+class dbConnection {
+	
+	//DATABASE CREDENTIALS
+	public $host = 'host';
+	public $userdb = 'username';
+	public $pass = 'password';
+	public $dbname = 'database';		
+	
+}
+
+?>
