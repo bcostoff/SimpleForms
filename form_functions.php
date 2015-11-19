@@ -1,6 +1,8 @@
 <?php
 
-require_once('functions.php');
+require_once('dbConnection_class.php');
+require_once('mysql.class.php');
+require_once('simple_form_class.php');
 
 //---------------------------- EXAMPLE FUNCTION --------------------------//
 
